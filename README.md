@@ -1,6 +1,9 @@
 
 **Welcome to the AyuCare Herbal E-Commerce Web Application - International Standards with Excellence*
 
+Praveen Deshan P.A
+IT20184544
+
 ## Features
 * Sellers can add, update, and delete items
 * Buyers can search, buy, and track orders
