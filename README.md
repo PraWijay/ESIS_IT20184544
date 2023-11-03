@@ -1,20 +1,5 @@
-# **DS Assignment 1 - Collaborative Shopping Platform for Ayurvedic/Herbal Medicines and Supplements**
 
-## Group Details
-
-### Batch : Y3.S1.WD.SE.01
-
-### Group ID : **404 🙁 NOT FOUND**
-
-### Members
-
-- IT21109126 - Maharanhindage V.A.R
-- IT20611088 - Jayakody D.M.L.D
-- IT21012488 - Shavinda H.K.L
-- IT21110016 - Kushan H.G.P.S
-___
-
-**Welcome to the collaborative shopping platform for Ayurvedic/Herbal medicines and supplements. This web application provides a seamless shopping experience for buyers and sellers, ensuring the quality of the products sold.**
+**Welcome to the AyuCare Herbal E-Commerce Web Application - International Standards with Excellence*
 
 ## Features
 * Sellers can add, update, and delete items
